@@ -1,2 +1,2 @@
 # Codsoft
-I developed these using HTML, CSS,JAVASCRIPT.
+I developed this calculator using HTML, CSS,JAVASCRIPT.
